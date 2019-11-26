@@ -56,9 +56,9 @@
 δεδομενα της ασκησης.
 
 --ΟΡΙΣΜΑΤΑ ΚΑΤΑ ΤΗΝ ΕΚΤΕΛΕΣΗ: Το προγραμμα μπορει να τρεξει με τους εξεις τροπους:
-	./minisearch -i <filename> 
-	./minisearch -i <filename> -k K
-	./minisearch  -k K -i <filename>
+    ./minisearch -i <filename>.
+    ./minisearch -i <filename> -k K
+    ./minisearch  -k K -i <filename>
 Μαζι με τα αρχεια που παραδιδω εχω και ενα δικο μου μικροτερο αρχειο που χρησιμοποιουσα.
 
 
